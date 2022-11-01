@@ -18,6 +18,13 @@ body {
 #menu-items {
     margin-left: clamp(4rem, 20vw, 48rem);
 }
+
+#menu-items:hover > .menu-item {
+    opacity: .5;
+}
+#menu-items:hover > .menu-item:hover {
+    opacity: 1;
+}
 #menu-background-pattern {
     height: 100vh;
     width: 100vw;
