@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(20, 20, 20);
+    margin: 0px;   
+}
+#menu {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.menu-item {
+    color: white;
+    font-size: clamp(3rem, 8vw, 8rem);
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    text-decoration: none;
+    padding: clamp(0.25rem, 0.5vw, 1rem) 0rem;
+}
