@@ -5,3 +5,4 @@ Currently everything is a work in progress
 1. Projects Page
 2. About me Page
 3. Contact Page
+4. Add more colors
