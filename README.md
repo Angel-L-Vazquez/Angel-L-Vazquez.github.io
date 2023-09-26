@@ -1,4 +1,4 @@
-This an e-Portfolio for Angel
+This an e-Portfolio for Angel.
 Currently everything is a work in progress
 
 ## Things to add:
